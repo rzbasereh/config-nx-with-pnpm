@@ -1,12 +1,14 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import styles from './app.module.css';
-
-import NxWelcome from './nx-welcome';
+import {useState} from "react";
 
 export function App() {
+  const [state, setState] = useState(1);
+
+
   return (
     <div>
-      <NxWelcome title="remote-app" />
+      <h5>This is Remote App</h5>
+      <button onClick={() => setState(state => state + 1)}>{state}</button>
     </div>
   );
 }

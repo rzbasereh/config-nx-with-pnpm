@@ -1,28 +1,20 @@
 import * as React from 'react';
+import {loadRemoteModule} from "../utils/remote-module-manager";
 
-import NxWelcome from './nx-welcome';
-
-import { Link, Route, Routes } from 'react-router-dom';
-
-const RemoteApp = React.lazy(() => import('remote-app/Module'));
+const RemoteApp = React.lazy(() => loadRemoteModule('remote-app', './Module'));
 
 export function App() {
+
+
   return (
     <React.Suspense fallback={null}>
-      <ul>
-        <li>
-          <Link to="/">Home</Link>
-        </li>
+      <h5>This is Host App</h5>
 
-        <li>
-          <Link to="/remote-app">RemoteApp</Link>
-        </li>
-      </ul>
-      <Routes>
-        <Route path="/" element={<NxWelcome title="host-app" />} />
+      <div>
+        <h6>This is Remote Wrapper</h6>
+        <RemoteApp/>
+      </div>
 
-        <Route path="/remote-app" element={<RemoteApp />} />
-      </Routes>
     </React.Suspense>
   );
 }
