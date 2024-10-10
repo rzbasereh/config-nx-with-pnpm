@@ -9,8 +9,6 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 
-setRemoteDefinitions({"remote-app": ['http://localhost:4201']});
-
 root.render(
   <StrictMode>
     <BrowserRouter>

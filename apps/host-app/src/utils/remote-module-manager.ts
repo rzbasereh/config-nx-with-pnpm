@@ -34,6 +34,7 @@ async function loadRemoteContainer(remoteName: string) {
       promise.catch(async () => {
         const containerUrl = `${remoteUrl}${remoteUrl.endsWith('/') ? '' : '/'}remoteEntry.js`;
         const container = await import(/* webpackIgnore:true */ containerUrl);
+        console.log(containerUrl, typeof container)
         await container.init(__webpack_share_scopes__.default);
         return container;
       }),
