@@ -836,11 +836,11 @@ packages:
     engines: {node: '>=12'}
 
   '@cypress/request@3.0.5':
-    resolution: {integrity: sha1-2JOm5oziY2wIX82NcoPDGGSZumM=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@cypress/request/-/request-3.0.5.tgz}
+    resolution: {integrity: sha1-2JOm5oziY2wIX82NcoPDGGSZumM=, tarball: https://registry.npmjs.org//@cypress/request/-/request-3.0.5.tgz}
     engines: {node: '>= 6'}
 
   '@cypress/xvfb@1.2.4':
-    resolution: {integrity: sha1-La9C6CdbOfSqU8FCFOVXvRTndIo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@cypress/xvfb/-/xvfb-1.2.4.tgz}
+    resolution: {integrity: sha1-La9C6CdbOfSqU8FCFOVXvRTndIo=, tarball: https://registry.npmjs.org//@cypress/xvfb/-/xvfb-1.2.4.tgz}
 
   '@eslint-community/eslint-utils@4.4.0':
     resolution: {integrity: sha1-ojUU6Pua8SadX3eIqlVnmNYca1k=}
@@ -1074,7 +1074,7 @@ packages:
     engines: {node: '>= 8'}
 
   '@nrwl/cypress@17.2.5':
-    resolution: {integrity: sha1-JrvjWlERjgLzdbFiEiVIjMuhgvY=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@nrwl/cypress/-/cypress-17.2.5.tgz}
+    resolution: {integrity: sha1-JrvjWlERjgLzdbFiEiVIjMuhgvY=, tarball: https://registry.npmjs.org//@nrwl/cypress/-/cypress-17.2.5.tgz}
 
   '@nrwl/devkit@17.2.5':
     resolution: {integrity: sha1-mQkYOH+xknMsGAPAAVusFx9AJoU=}
@@ -1096,7 +1096,7 @@ packages:
     hasBin: true
 
   '@nrwl/web@17.2.5':
-    resolution: {integrity: sha1-iM9LNR9tsvU2kTqGAIUT9WrzJ1U=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@nrwl/web/-/web-17.2.5.tgz}
+    resolution: {integrity: sha1-iM9LNR9tsvU2kTqGAIUT9WrzJ1U=, tarball: https://registry.npmjs.org//@nrwl/web/-/web-17.2.5.tgz}
 
   '@nrwl/webpack@17.2.5':
     resolution: {integrity: sha1-6qeQ4QnW4xfiQJwznK1JlQnbQLY=}
@@ -1105,7 +1105,7 @@ packages:
     resolution: {integrity: sha1-ksxsghTByy8vvHmOL22osRIk8r4=}
 
   '@nx/cypress@17.2.5':
-    resolution: {integrity: sha1-JgJ3IfFyUypvOkIXUdA5Afokkeg=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@nx/cypress/-/cypress-17.2.5.tgz}
+    resolution: {integrity: sha1-JgJ3IfFyUypvOkIXUdA5Afokkeg=, tarball: https://registry.npmjs.org//@nx/cypress/-/cypress-17.2.5.tgz}
     peerDependencies:
       cypress: '>= 3 < 14'
     peerDependenciesMeta:
@@ -1215,7 +1215,7 @@ packages:
     resolution: {integrity: sha1-IFL0KQ1j2qWBTIhN30JIzYTBkKE=}
 
   '@nx/web@17.2.5':
-    resolution: {integrity: sha1-Ch/kYgU06s1QJDXsSf1qpyxiSsk=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@nx/web/-/web-17.2.5.tgz}
+    resolution: {integrity: sha1-Ch/kYgU06s1QJDXsSf1qpyxiSsk=, tarball: https://registry.npmjs.org//@nx/web/-/web-17.2.5.tgz}
 
   '@nx/webpack@17.2.5':
     resolution: {integrity: sha1-70x/UtdpzTnl7w6voFHYINMkgJs=}
@@ -1255,7 +1255,7 @@ packages:
         optional: true
 
   '@remix-run/router@1.6.2':
-    resolution: {integrity: sha1-u+dfjFngtwd1hJIM4sx2+PNUk00=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@remix-run/router/-/router-1.6.2.tgz}
+    resolution: {integrity: sha1-u+dfjFngtwd1hJIM4sx2+PNUk00=, tarball: https://registry.npmjs.org//@remix-run/router/-/router-1.6.2.tgz}
     engines: {node: '>=14'}
 
   '@sinclair/typebox@0.27.8':
@@ -1616,10 +1616,10 @@ packages:
     resolution: {integrity: sha1-IhdLvXT7l/4wMQlzjptcLzBk9xQ=}
 
   '@types/sinonjs__fake-timers@8.1.1':
-    resolution: {integrity: sha1-tJwscBUBQaFeD6fnnPH5KnKTTOM=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@types/sinonjs__fake-timers/-/sinonjs__fake-timers-8.1.1.tgz}
+    resolution: {integrity: sha1-tJwscBUBQaFeD6fnnPH5KnKTTOM=, tarball: https://registry.npmjs.org//@types/sinonjs__fake-timers/-/sinonjs__fake-timers-8.1.1.tgz}
 
   '@types/sizzle@2.3.8':
-    resolution: {integrity: sha1-UYYJrvt5faGb8iL+sZno9lP/dic=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/@types/sizzle/-/sizzle-2.3.8.tgz}
+    resolution: {integrity: sha1-UYYJrvt5faGb8iL+sZno9lP/dic=, tarball: https://registry.npmjs.org//@types/sizzle/-/sizzle-2.3.8.tgz}
 
   '@types/sockjs@0.3.36':
     resolution: {integrity: sha1-zjIs8HvMEZ1Mv3+IlU86O9D2dTU=}
@@ -1805,7 +1805,7 @@ packages:
     engines: {node: '>= 6.0.0'}
 
   aggregate-error@3.1.0:
-    resolution: {integrity: sha1-kmcP9Q9TWb23o+DUDQ7DDFc3aHo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/aggregate-error/-/aggregate-error-3.1.0.tgz}
+    resolution: {integrity: sha1-kmcP9Q9TWb23o+DUDQ7DDFc3aHo=, tarball: https://registry.npmjs.org//aggregate-error/-/aggregate-error-3.1.0.tgz}
     engines: {node: '>=8'}
 
   ajv-formats@2.1.1:
@@ -1925,21 +1925,21 @@ packages:
     engines: {node: '>= 0.4'}
 
   asn1@0.2.6:
-    resolution: {integrity: sha1-DTp7tuZOAqkMAwOzHykoaOoJoI0=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/asn1/-/asn1-0.2.6.tgz}
+    resolution: {integrity: sha1-DTp7tuZOAqkMAwOzHykoaOoJoI0=, tarball: https://registry.npmjs.org//asn1/-/asn1-0.2.6.tgz}
 
   assert-plus@1.0.0:
-    resolution: {integrity: sha1-8S4PPF13sLHN2RRpQuTpbB5N1SU=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/assert-plus/-/assert-plus-1.0.0.tgz}
+    resolution: {integrity: sha1-8S4PPF13sLHN2RRpQuTpbB5N1SU=, tarball: https://registry.npmjs.org//assert-plus/-/assert-plus-1.0.0.tgz}
     engines: {node: '>=0.8'}
 
   ast-types-flow@0.0.7:
     resolution: {integrity: sha1-9wtzXGvKGlycItmCw+Oef+ujva0=}
 
   astral-regex@2.0.0:
-    resolution: {integrity: sha1-SDFDxWeu7UeFdZwIZXhtx319LjE=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/astral-regex/-/astral-regex-2.0.0.tgz}
+    resolution: {integrity: sha1-SDFDxWeu7UeFdZwIZXhtx319LjE=, tarball: https://registry.npmjs.org//astral-regex/-/astral-regex-2.0.0.tgz}
     engines: {node: '>=8'}
 
   async@2.6.4:
-    resolution: {integrity: sha1-cGt/9ghGZM1+rnE/b5ZUM7VQQiE=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/async/-/async-2.6.4.tgz}
+    resolution: {integrity: sha1-cGt/9ghGZM1+rnE/b5ZUM7VQQiE=, tarball: https://registry.npmjs.org//async/-/async-2.6.4.tgz}
 
   async@3.2.6:
     resolution: {integrity: sha1-Gwco4Ukp1RuFtEm38G4nwRReOM4=}
@@ -1948,7 +1948,7 @@ packages:
     resolution: {integrity: sha1-x57Zf380y48robyXkLzDZkdLS3k=}
 
   at-least-node@1.0.0:
-    resolution: {integrity: sha1-YCzUtG6EStTv/JKoARo8RuAjjcI=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/at-least-node/-/at-least-node-1.0.0.tgz}
+    resolution: {integrity: sha1-YCzUtG6EStTv/JKoARo8RuAjjcI=, tarball: https://registry.npmjs.org//at-least-node/-/at-least-node-1.0.0.tgz}
     engines: {node: '>= 4.0.0'}
 
   autoprefixer@10.4.20:
@@ -1963,10 +1963,10 @@ packages:
     engines: {node: '>= 0.4'}
 
   aws-sign2@0.7.0:
-    resolution: {integrity: sha1-tG6JCTSpWR8tL2+G1+ap8bP+dqg=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/aws-sign2/-/aws-sign2-0.7.0.tgz}
+    resolution: {integrity: sha1-tG6JCTSpWR8tL2+G1+ap8bP+dqg=, tarball: https://registry.npmjs.org//aws-sign2/-/aws-sign2-0.7.0.tgz}
 
   aws4@1.13.2:
-    resolution: {integrity: sha1-CqFnIWllrJR0zPqDiSz7az4eUu8=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/aws4/-/aws4-1.13.2.tgz}
+    resolution: {integrity: sha1-CqFnIWllrJR0zPqDiSz7az4eUu8=, tarball: https://registry.npmjs.org//aws4/-/aws4-1.13.2.tgz}
 
   axe-core@4.10.0:
     resolution: {integrity: sha1-2eVqsBRyeCcnOaAAiAGWzf4RO1k=}
@@ -2050,14 +2050,14 @@ packages:
     resolution: {integrity: sha1-GxtEAWClv3rUC2UPCVljSBkDkwo=}
 
   basic-auth@2.0.1:
-    resolution: {integrity: sha1-uZgnm/R844NEtPPPkW1Gebv1Hjo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/basic-auth/-/basic-auth-2.0.1.tgz}
+    resolution: {integrity: sha1-uZgnm/R844NEtPPPkW1Gebv1Hjo=, tarball: https://registry.npmjs.org//basic-auth/-/basic-auth-2.0.1.tgz}
     engines: {node: '>= 0.8'}
 
   batch@0.6.1:
     resolution: {integrity: sha1-3DQxT05nkxgJP8dgJyUl+UvyXBY=}
 
   bcrypt-pbkdf@1.0.2:
-    resolution: {integrity: sha1-pDAdOJtqQ/m2f/PKEaP2Y342Dp4=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.2.tgz}
+    resolution: {integrity: sha1-pDAdOJtqQ/m2f/PKEaP2Y342Dp4=, tarball: https://registry.npmjs.org//bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.2.tgz}
 
   big.js@5.2.2:
     resolution: {integrity: sha1-ZfCvOC9Xi83HQr2cKB6cstd2gyg=}
@@ -2082,10 +2082,10 @@ packages:
     resolution: {integrity: sha1-RRU1JkGCvsL7vIOmKrmM8R2fezo=}
 
   blob-util@2.0.2:
-    resolution: {integrity: sha1-O048KBERu38REoUYAGzcYLQDoes=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/blob-util/-/blob-util-2.0.2.tgz}
+    resolution: {integrity: sha1-O048KBERu38REoUYAGzcYLQDoes=, tarball: https://registry.npmjs.org//blob-util/-/blob-util-2.0.2.tgz}
 
   bluebird@3.7.2:
-    resolution: {integrity: sha1-nyKcFb4nJFT/qXOs4NvueaGww28=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/bluebird/-/bluebird-3.7.2.tgz}
+    resolution: {integrity: sha1-nyKcFb4nJFT/qXOs4NvueaGww28=, tarball: https://registry.npmjs.org//bluebird/-/bluebird-3.7.2.tgz}
 
   body-parser@1.20.3:
     resolution: {integrity: sha1-GVNDEiHG+1zWPEs21T+rCSjlSMY=}
@@ -2125,7 +2125,7 @@ packages:
     hasBin: true
 
   buffer-crc32@0.2.13:
-    resolution: {integrity: sha1-DTM+PwDqxQqhRUq9MO+MKl2ackI=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/buffer-crc32/-/buffer-crc32-0.2.13.tgz}
+    resolution: {integrity: sha1-DTM+PwDqxQqhRUq9MO+MKl2ackI=, tarball: https://registry.npmjs.org//buffer-crc32/-/buffer-crc32-0.2.13.tgz}
 
   buffer-from@1.1.2:
     resolution: {integrity: sha1-KxRqb9cugLT1XSVfNe1Zo6mkG9U=}
@@ -2154,7 +2154,7 @@ packages:
     engines: {node: '>=8'}
 
   cachedir@2.4.0:
-    resolution: {integrity: sha1-f++c9zZyM9fIgGj+bjTtDTVaYQ0=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/cachedir/-/cachedir-2.4.0.tgz}
+    resolution: {integrity: sha1-f++c9zZyM9fIgGj+bjTtDTVaYQ0=, tarball: https://registry.npmjs.org//cachedir/-/cachedir-2.4.0.tgz}
     engines: {node: '>=6'}
 
   call-bind@1.0.7:
@@ -2180,7 +2180,7 @@ packages:
     resolution: {integrity: sha1-FSmnI1BeQp/f1JUy6fxCJzun/tc=}
 
   caseless@0.12.0:
-    resolution: {integrity: sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/caseless/-/caseless-0.12.0.tgz}
+    resolution: {integrity: sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=, tarball: https://registry.npmjs.org//caseless/-/caseless-0.12.0.tgz}
 
   chalk@2.4.2:
     resolution: {integrity: sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ==}
@@ -2199,7 +2199,7 @@ packages:
     engines: {node: '>=10'}
 
   check-more-types@2.24.0:
-    resolution: {integrity: sha1-FCD/sQ/URNz8ebQ4kbv//TKoRgA=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/check-more-types/-/check-more-types-2.24.0.tgz}
+    resolution: {integrity: sha1-FCD/sQ/URNz8ebQ4kbv//TKoRgA=, tarball: https://registry.npmjs.org//check-more-types/-/check-more-types-2.24.0.tgz}
     engines: {node: '>= 0.8.0'}
 
   chokidar@3.6.0:
@@ -2222,7 +2222,7 @@ packages:
     resolution: {integrity: sha1-cHQTeE27OnKqEcLysEKgvvQAQXA=}
 
   clean-stack@2.2.0:
-    resolution: {integrity: sha1-7oRy27Ep5yezHooQpCfe6d/kAIs=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/clean-stack/-/clean-stack-2.2.0.tgz}
+    resolution: {integrity: sha1-7oRy27Ep5yezHooQpCfe6d/kAIs=, tarball: https://registry.npmjs.org//clean-stack/-/clean-stack-2.2.0.tgz}
     engines: {node: '>=6'}
 
   cli-cursor@3.1.0:
@@ -2238,11 +2238,11 @@ packages:
     engines: {node: '>=6'}
 
   cli-table3@0.6.5:
-    resolution: {integrity: sha1-ATuRNRdic5wWqVZ8IaBGMuRJvy8=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/cli-table3/-/cli-table3-0.6.5.tgz}
+    resolution: {integrity: sha1-ATuRNRdic5wWqVZ8IaBGMuRJvy8=, tarball: https://registry.npmjs.org//cli-table3/-/cli-table3-0.6.5.tgz}
     engines: {node: 10.* || >= 12.*}
 
   cli-truncate@2.1.0:
-    resolution: {integrity: sha1-w54ovwXtzeW+O5iZKiLe7Vork8c=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/cli-truncate/-/cli-truncate-2.1.0.tgz}
+    resolution: {integrity: sha1-w54ovwXtzeW+O5iZKiLe7Vork8c=, tarball: https://registry.npmjs.org//cli-truncate/-/cli-truncate-2.1.0.tgz}
     engines: {node: '>=8'}
 
   cliui@8.0.1:
@@ -2294,7 +2294,7 @@ packages:
     resolution: {integrity: sha1-/UhehMA+tIgcIHIrpIA16FMa6zM=}
 
   commander@6.2.1:
-    resolution: {integrity: sha1-B5LraC37wyWZm7K4T93duhEKxzw=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/commander/-/commander-6.2.1.tgz}
+    resolution: {integrity: sha1-B5LraC37wyWZm7K4T93duhEKxzw=, tarball: https://registry.npmjs.org//commander/-/commander-6.2.1.tgz}
     engines: {node: '>= 6'}
 
   commander@7.2.0:
@@ -2305,7 +2305,7 @@ packages:
     resolution: {integrity: sha1-fQB6fgfFjEtNX0MxMaGRQbKfEeA=}
 
   common-tags@1.8.2:
-    resolution: {integrity: sha1-lOuzwHbSYDJ0X9VPrOf2iO9aycY=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/common-tags/-/common-tags-1.8.2.tgz}
+    resolution: {integrity: sha1-lOuzwHbSYDJ0X9VPrOf2iO9aycY=, tarball: https://registry.npmjs.org//common-tags/-/common-tags-1.8.2.tgz}
     engines: {node: '>=4.0.0'}
 
   compressible@2.0.18:
@@ -2364,13 +2364,13 @@ packages:
     resolution: {integrity: sha1-6FNAYqVLciE0SIS6m1JHS+SVraM=}
 
   core-util-is@1.0.2:
-    resolution: {integrity: sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/core-util-is/-/core-util-is-1.0.2.tgz}
+    resolution: {integrity: sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=, tarball: https://registry.npmjs.org//core-util-is/-/core-util-is-1.0.2.tgz}
 
   core-util-is@1.0.3:
     resolution: {integrity: sha1-pgQtNjTCsn6TKPg3uWX6yDgI24U=}
 
   corser@2.0.1:
-    resolution: {integrity: sha1-jtolLsqrWEDc2XXOuQ2TcMgZ/4c=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/corser/-/corser-2.0.1.tgz}
+    resolution: {integrity: sha1-jtolLsqrWEDc2XXOuQ2TcMgZ/4c=, tarball: https://registry.npmjs.org//corser/-/corser-2.0.1.tgz}
     engines: {node: '>= 0.4.0'}
 
   cosmiconfig@6.0.0:
@@ -2508,7 +2508,7 @@ packages:
     resolution: {integrity: sha1-2A/ylNEU+w5qxQD7+FtgE31+/4E=}
 
   cypress@13.14.2:
-    resolution: {integrity: sha1-QjfreybeK66qHwHlhfll2I/Kfzk=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/cypress/-/cypress-13.14.2.tgz}
+    resolution: {integrity: sha1-QjfreybeK66qHwHlhfll2I/Kfzk=, tarball: https://registry.npmjs.org//cypress/-/cypress-13.14.2.tgz}
     engines: {node: ^16.0.0 || ^18.0.0 || >=20.0.0}
     hasBin: true
 
@@ -2516,7 +2516,7 @@ packages:
     resolution: {integrity: sha1-tD0obMvTa8Wy9+1ByvLQq6H4puc=}
 
   dashdash@1.14.1:
-    resolution: {integrity: sha1-hTz6D3y+L+1d4gMmuN1YEDX24vA=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/dashdash/-/dashdash-1.14.1.tgz}
+    resolution: {integrity: sha1-hTz6D3y+L+1d4gMmuN1YEDX24vA=, tarball: https://registry.npmjs.org//dashdash/-/dashdash-1.14.1.tgz}
     engines: {node: '>=0.10'}
 
   data-urls@3.0.2:
@@ -2540,7 +2540,7 @@ packages:
     engines: {node: '>=4.0'}
 
   dayjs@1.11.13:
-    resolution: {integrity: sha1-kkMLATkFXD67YBUKoT6GCktaNmw=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/dayjs/-/dayjs-1.11.13.tgz}
+    resolution: {integrity: sha1-kkMLATkFXD67YBUKoT6GCktaNmw=, tarball: https://registry.npmjs.org//dayjs/-/dayjs-1.11.13.tgz}
 
   debug@2.6.9:
     resolution: {integrity: sha1-XRKFFd8TT/Mn6QpMk/Tgd6U2NB8=}
@@ -2710,7 +2710,7 @@ packages:
     resolution: {integrity: sha1-Or5DrvODX4rgd9E23c4PJ2sEAOY=}
 
   ecc-jsbn@0.1.2:
-    resolution: {integrity: sha1-OoOpBOVDUyh4dMVkt1SThoSamMk=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/ecc-jsbn/-/ecc-jsbn-0.1.2.tgz}
+    resolution: {integrity: sha1-OoOpBOVDUyh4dMVkt1SThoSamMk=, tarball: https://registry.npmjs.org//ecc-jsbn/-/ecc-jsbn-0.1.2.tgz}
 
   ee-first@1.1.1:
     resolution: {integrity: sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=}
@@ -2862,7 +2862,7 @@ packages:
         optional: true
 
   eslint-plugin-cypress@2.15.2:
-    resolution: {integrity: sha1-8i4S+tTENO2teymO+Susj6CH/6A=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/eslint-plugin-cypress/-/eslint-plugin-cypress-2.15.2.tgz}
+    resolution: {integrity: sha1-8i4S+tTENO2teymO+Susj6CH/6A=, tarball: https://registry.npmjs.org//eslint-plugin-cypress/-/eslint-plugin-cypress-2.15.2.tgz}
     peerDependencies:
       eslint: '>= 3.2.1'
 
@@ -2945,7 +2945,7 @@ packages:
     engines: {node: '>= 0.6'}
 
   eventemitter2@6.4.7:
-    resolution: {integrity: sha1-p/bE16vyihTB7zRC8hyzBqBUJx0=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/eventemitter2/-/eventemitter2-6.4.7.tgz}
+    resolution: {integrity: sha1-p/bE16vyihTB7zRC8hyzBqBUJx0=, tarball: https://registry.npmjs.org//eventemitter2/-/eventemitter2-6.4.7.tgz}
 
   eventemitter3@4.0.7:
     resolution: {integrity: sha1-Lem2j2Uo1WRO9cWVJqG0oHMGFp8=}
@@ -2959,7 +2959,7 @@ packages:
     engines: {node: '>=4'}
 
   execa@4.1.0:
-    resolution: {integrity: sha1-TlSRrRVy8vF6d9OIxshXE1sihHo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/execa/-/execa-4.1.0.tgz}
+    resolution: {integrity: sha1-TlSRrRVy8vF6d9OIxshXE1sihHo=, tarball: https://registry.npmjs.org//execa/-/execa-4.1.0.tgz}
     engines: {node: '>=10'}
 
   execa@5.1.1:
@@ -2995,15 +2995,15 @@ packages:
     engines: {node: '>=4'}
 
   extend@3.0.2:
-    resolution: {integrity: sha1-+LETa0Bx+9jrFAr/hYsQGewpFfo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/extend/-/extend-3.0.2.tgz}
+    resolution: {integrity: sha1-+LETa0Bx+9jrFAr/hYsQGewpFfo=, tarball: https://registry.npmjs.org//extend/-/extend-3.0.2.tgz}
 
   extract-zip@2.0.1:
-    resolution: {integrity: sha1-Zj3KVv5G34kNXxMe9KBtIruLoTo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/extract-zip/-/extract-zip-2.0.1.tgz}
+    resolution: {integrity: sha1-Zj3KVv5G34kNXxMe9KBtIruLoTo=, tarball: https://registry.npmjs.org//extract-zip/-/extract-zip-2.0.1.tgz}
     engines: {node: '>= 10.17.0'}
     hasBin: true
 
   extsprintf@1.3.0:
-    resolution: {integrity: sha1-lpGEQOMEGnpBT4xS48V06zw+HgU=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/extsprintf/-/extsprintf-1.3.0.tgz}
+    resolution: {integrity: sha1-lpGEQOMEGnpBT4xS48V06zw+HgU=, tarball: https://registry.npmjs.org//extsprintf/-/extsprintf-1.3.0.tgz}
     engines: {'0': node >=0.6.0}
 
   fast-deep-equal@3.1.3:
@@ -3037,7 +3037,7 @@ packages:
     resolution: {integrity: sha1-6VJO5rXHfp5QAa8PhfOtu4YjJVw=}
 
   fd-slicer@1.1.0:
-    resolution: {integrity: sha1-JcfInLH5B3+IkbvmHY85Dq4lbx4=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/fd-slicer/-/fd-slicer-1.1.0.tgz}
+    resolution: {integrity: sha1-JcfInLH5B3+IkbvmHY85Dq4lbx4=, tarball: https://registry.npmjs.org//fd-slicer/-/fd-slicer-1.1.0.tgz}
 
   figures@3.2.0:
     resolution: {integrity: sha1-YlwYvSk8YE3EqN2y/r8MiDQXRq8=}
@@ -3128,7 +3128,7 @@ packages:
     resolution: {integrity: sha1-abRH6IoKXTLD5whPPxcQA0shN24=}
 
   forever-agent@0.6.1:
-    resolution: {integrity: sha1-+8cfDEGt6zf5bFd60e1C2P2sypE=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/forever-agent/-/forever-agent-0.6.1.tgz}
+    resolution: {integrity: sha1-+8cfDEGt6zf5bFd60e1C2P2sypE=, tarball: https://registry.npmjs.org//forever-agent/-/forever-agent-0.6.1.tgz}
 
   fork-ts-checker-webpack-plugin@7.2.13:
     resolution: {integrity: sha1-Uf/WovlvA6tkuS+K7fMF2/Pe4PE=}
@@ -3172,7 +3172,7 @@ packages:
     engines: {node: '>=6 <7 || >=8'}
 
   fs-extra@9.1.0:
-    resolution: {integrity: sha1-WVRGDHZKjaIJS6NVS/g55rmnyG0=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/fs-extra/-/fs-extra-9.1.0.tgz}
+    resolution: {integrity: sha1-WVRGDHZKjaIJS6NVS/g55rmnyG0=, tarball: https://registry.npmjs.org//fs-extra/-/fs-extra-9.1.0.tgz}
     engines: {node: '>=10'}
 
   fs-monkey@1.0.6:
@@ -3229,10 +3229,10 @@ packages:
     engines: {node: '>= 0.4'}
 
   getos@3.2.1:
-    resolution: {integrity: sha1-ATTR9OAOtGFExanArE3Ah8uyfcU=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/getos/-/getos-3.2.1.tgz}
+    resolution: {integrity: sha1-ATTR9OAOtGFExanArE3Ah8uyfcU=, tarball: https://registry.npmjs.org//getos/-/getos-3.2.1.tgz}
 
   getpass@0.1.7:
-    resolution: {integrity: sha1-Xv+OPmhNVprkyysSgmBOi6YhSfo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/getpass/-/getpass-0.1.7.tgz}
+    resolution: {integrity: sha1-Xv+OPmhNVprkyysSgmBOi6YhSfo=, tarball: https://registry.npmjs.org//getpass/-/getpass-0.1.7.tgz}
 
   glob-parent@5.1.2:
     resolution: {integrity: sha1-hpgyxYA0/mikCTwX3BXoNA2EAcQ=}
@@ -3254,7 +3254,7 @@ packages:
     deprecated: Glob versions prior to v9 are no longer supported
 
   global-dirs@3.0.1:
-    resolution: {integrity: sha1-DEiJcfBmus7aIUR67LGouRHSJIU=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/global-dirs/-/global-dirs-3.0.1.tgz}
+    resolution: {integrity: sha1-DEiJcfBmus7aIUR67LGouRHSJIU=, tarball: https://registry.npmjs.org//global-dirs/-/global-dirs-3.0.1.tgz}
     engines: {node: '>=10'}
 
   global-modules@1.0.0:
@@ -3339,7 +3339,7 @@ packages:
     engines: {node: '>= 0.4'}
 
   he@1.2.0:
-    resolution: {integrity: sha1-hK5l+n6vsWX922FWauFLrwVmTw8=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/he/-/he-1.2.0.tgz}
+    resolution: {integrity: sha1-hK5l+n6vsWX922FWauFLrwVmTw8=, tarball: https://registry.npmjs.org//he/-/he-1.2.0.tgz}
     hasBin: true
 
   homedir-polyfill@1.0.3:
@@ -3406,12 +3406,12 @@ packages:
     engines: {node: '>=8.0.0'}
 
   http-server@14.1.1:
-    resolution: {integrity: sha1-1g+7N9fC/f8PD7/w0O5mcL0oXi4=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/http-server/-/http-server-14.1.1.tgz}
+    resolution: {integrity: sha1-1g+7N9fC/f8PD7/w0O5mcL0oXi4=, tarball: https://registry.npmjs.org//http-server/-/http-server-14.1.1.tgz}
     engines: {node: '>=12'}
     hasBin: true
 
   http-signature@1.4.0:
-    resolution: {integrity: sha1-3uWpuiv0lBarxUSr1tln9qlMjD8=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/http-signature/-/http-signature-1.4.0.tgz}
+    resolution: {integrity: sha1-3uWpuiv0lBarxUSr1tln9qlMjD8=, tarball: https://registry.npmjs.org//http-signature/-/http-signature-1.4.0.tgz}
     engines: {node: '>=0.10'}
 
   http2-wrapper@1.0.3:
@@ -3423,7 +3423,7 @@ packages:
     engines: {node: '>= 6'}
 
   human-signals@1.1.1:
-    resolution: {integrity: sha1-xbHNFPUK6uCatsWf5jujOV/k36M=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/human-signals/-/human-signals-1.1.1.tgz}
+    resolution: {integrity: sha1-xbHNFPUK6uCatsWf5jujOV/k36M=, tarball: https://registry.npmjs.org//human-signals/-/human-signals-1.1.1.tgz}
     engines: {node: '>=8.12.0'}
 
   human-signals@2.1.0:
@@ -3477,7 +3477,7 @@ packages:
     engines: {node: '>=0.8.19'}
 
   indent-string@4.0.0:
-    resolution: {integrity: sha1-Yk+PRJfWGbLZdoUx1Y9BIoVNclE=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/indent-string/-/indent-string-4.0.0.tgz}
+    resolution: {integrity: sha1-Yk+PRJfWGbLZdoUx1Y9BIoVNclE=, tarball: https://registry.npmjs.org//indent-string/-/indent-string-4.0.0.tgz}
     engines: {node: '>=8'}
 
   inflight@1.0.6:
@@ -3494,7 +3494,7 @@ packages:
     resolution: {integrity: sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==}
 
   ini@2.0.0:
-    resolution: {integrity: sha1-5f1Vbs3VcmvpePoQAYYurLCpS8U=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/ini/-/ini-2.0.0.tgz}
+    resolution: {integrity: sha1-5f1Vbs3VcmvpePoQAYYurLCpS8U=, tarball: https://registry.npmjs.org//ini/-/ini-2.0.0.tgz}
     engines: {node: '>=10'}
 
   internal-slot@1.0.7:
@@ -3536,7 +3536,7 @@ packages:
     engines: {node: '>= 0.4'}
 
   is-ci@3.0.1:
-    resolution: {integrity: sha1-227L7RvWWcQ9rA9FZh52dBA9GGc=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/is-ci/-/is-ci-3.0.1.tgz}
+    resolution: {integrity: sha1-227L7RvWWcQ9rA9FZh52dBA9GGc=, tarball: https://registry.npmjs.org//is-ci/-/is-ci-3.0.1.tgz}
     hasBin: true
 
   is-core-module@2.15.1:
@@ -3577,7 +3577,7 @@ packages:
     engines: {node: '>=0.10.0'}
 
   is-installed-globally@0.4.0:
-    resolution: {integrity: sha1-mg/UB5ScMPhutpWe8beZTtC3tSA=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/is-installed-globally/-/is-installed-globally-0.4.0.tgz}
+    resolution: {integrity: sha1-mg/UB5ScMPhutpWe8beZTtC3tSA=, tarball: https://registry.npmjs.org//is-installed-globally/-/is-installed-globally-0.4.0.tgz}
     engines: {node: '>=10'}
 
   is-interactive@1.0.0:
@@ -3648,7 +3648,7 @@ packages:
     engines: {node: '>= 0.4'}
 
   is-typedarray@1.0.0:
-    resolution: {integrity: sha1-5HnICFjfDBsR3dppQPlgEfzaSpo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/is-typedarray/-/is-typedarray-1.0.0.tgz}
+    resolution: {integrity: sha1-5HnICFjfDBsR3dppQPlgEfzaSpo=, tarball: https://registry.npmjs.org//is-typedarray/-/is-typedarray-1.0.0.tgz}
 
   is-unicode-supported@0.1.0:
     resolution: {integrity: sha1-PybHaoCVk7Ur+i7LVxDtJ3m1Iqc=}
@@ -3691,7 +3691,7 @@ packages:
       ws: '*'
 
   isstream@0.1.2:
-    resolution: {integrity: sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/isstream/-/isstream-0.1.2.tgz}
+    resolution: {integrity: sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=, tarball: https://registry.npmjs.org//isstream/-/isstream-0.1.2.tgz}
 
   istanbul-lib-coverage@3.2.2:
     resolution: {integrity: sha1-LRZsSwZE1Do58Ev2wu3R5YXzF1Y=}
@@ -3876,7 +3876,7 @@ packages:
     hasBin: true
 
   jsbn@0.1.1:
-    resolution: {integrity: sha1-peZUwuWi3rXyAdls77yoDA7y9RM=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/jsbn/-/jsbn-0.1.1.tgz}
+    resolution: {integrity: sha1-peZUwuWi3rXyAdls77yoDA7y9RM=, tarball: https://registry.npmjs.org//jsbn/-/jsbn-0.1.1.tgz}
 
   jsdom@20.0.3:
     resolution: {integrity: sha1-iGpBuh1HJvZ6iFgCjJlIn+1q1Ns=}
@@ -3909,13 +3909,13 @@ packages:
     resolution: {integrity: sha1-rnvLNlard6c7pcSb9lTzjmtoYOI=}
 
   json-schema@0.4.0:
-    resolution: {integrity: sha1-995M9u+rg4666zI2R0y7paGTCrU=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/json-schema/-/json-schema-0.4.0.tgz}
+    resolution: {integrity: sha1-995M9u+rg4666zI2R0y7paGTCrU=, tarball: https://registry.npmjs.org//json-schema/-/json-schema-0.4.0.tgz}
 
   json-stable-stringify-without-jsonify@1.0.1:
     resolution: {integrity: sha1-nbe1lJatPzz+8wp1FC0tkwrXJlE=}
 
   json-stringify-safe@5.0.1:
-    resolution: {integrity: sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz}
+    resolution: {integrity: sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=, tarball: https://registry.npmjs.org//json-stringify-safe/-/json-stringify-safe-5.0.1.tgz}
 
   json5@1.0.2:
     resolution: {integrity: sha1-Y9mNYPIbMTt3xNbaGL+mnYDh1ZM=}
@@ -3940,7 +3940,7 @@ packages:
     resolution: {integrity: sha1-vFWyY0eTxnnsZAMJTrE2mKbsCq4=}
 
   jsprim@2.0.2:
-    resolution: {integrity: sha1-d8oj281BNc02SADSL/gsIYWAPU0=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/jsprim/-/jsprim-2.0.2.tgz}
+    resolution: {integrity: sha1-d8oj281BNc02SADSL/gsIYWAPU0=, tarball: https://registry.npmjs.org//jsprim/-/jsprim-2.0.2.tgz}
     engines: {'0': node >=0.6.0}
 
   jsx-ast-utils@3.3.5:
@@ -3983,7 +3983,7 @@ packages:
     resolution: {integrity: sha1-JT8XO9RB40LUNEtNrlgpGrtCUEc=}
 
   lazy-ass@1.6.0:
-    resolution: {integrity: sha1-eZllXoZGwX8In90YfRUNMyTVRRM=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/lazy-ass/-/lazy-ass-1.6.0.tgz}
+    resolution: {integrity: sha1-eZllXoZGwX8In90YfRUNMyTVRRM=, tarball: https://registry.npmjs.org//lazy-ass/-/lazy-ass-1.6.0.tgz}
     engines: {node: '> 0.8'}
 
   less-loader@11.1.0:
@@ -4026,7 +4026,7 @@ packages:
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
 
   listr2@3.14.0:
-    resolution: {integrity: sha1-IxAcxi4Tdf1YNrJIJ20dK1H9vp4=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/listr2/-/listr2-3.14.0.tgz}
+    resolution: {integrity: sha1-IxAcxi4Tdf1YNrJIJ20dK1H9vp4=, tarball: https://registry.npmjs.org//listr2/-/listr2-3.14.0.tgz}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       enquirer: '>= 2.3.0 < 3'
@@ -4070,20 +4070,20 @@ packages:
     resolution: {integrity: sha1-VYqlO0O2YeGSWgr9+japoQhf5Xo=}
 
   lodash.once@4.1.1:
-    resolution: {integrity: sha1-DdOXEhPHxW34gJd9UEyI+0cal6w=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/lodash.once/-/lodash.once-4.1.1.tgz}
+    resolution: {integrity: sha1-DdOXEhPHxW34gJd9UEyI+0cal6w=, tarball: https://registry.npmjs.org//lodash.once/-/lodash.once-4.1.1.tgz}
 
   lodash.uniq@4.5.0:
     resolution: {integrity: sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=}
 
   lodash@4.17.21:
-    resolution: {integrity: sha1-Z5WRxWTDv/quhFTPCz3zcMPWkRw=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/lodash/-/lodash-4.17.21.tgz}
+    resolution: {integrity: sha1-Z5WRxWTDv/quhFTPCz3zcMPWkRw=, tarball: https://registry.npmjs.org//lodash/-/lodash-4.17.21.tgz}
 
   log-symbols@4.1.0:
     resolution: {integrity: sha1-P727lbRoOsn8eFER55LlWNSr1QM=}
     engines: {node: '>=10'}
 
   log-update@4.0.0:
-    resolution: {integrity: sha1-WJ7NNSRx8qHAxXAodUOmTf0g4KE=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/log-update/-/log-update-4.0.0.tgz}
+    resolution: {integrity: sha1-WJ7NNSRx8qHAxXAodUOmTf0g4KE=, tarball: https://registry.npmjs.org//log-update/-/log-update-4.0.0.tgz}
     engines: {node: '>=10'}
 
   log4js@6.9.1:
@@ -4231,7 +4231,7 @@ packages:
     resolution: {integrity: sha1-waRk52kzAuCCoHXO4MBXdBrEdyw=}
 
   mkdirp@0.5.6:
-    resolution: {integrity: sha1-fe8D0kMtyuS6HWEURcSDlgYiVfY=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/mkdirp/-/mkdirp-0.5.6.tgz}
+    resolution: {integrity: sha1-fe8D0kMtyuS6HWEURcSDlgYiVfY=, tarball: https://registry.npmjs.org//mkdirp/-/mkdirp-0.5.6.tgz}
     hasBin: true
 
   ms@2.0.0:
@@ -4400,7 +4400,7 @@ packages:
     engines: {node: '>=12'}
 
   opener@1.5.2:
-    resolution: {integrity: sha1-XTfh81B3udysQwE3InGv3rKhNZg=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/opener/-/opener-1.5.2.tgz}
+    resolution: {integrity: sha1-XTfh81B3udysQwE3InGv3rKhNZg=, tarball: https://registry.npmjs.org//opener/-/opener-1.5.2.tgz}
     hasBin: true
 
   optionator@0.9.4:
@@ -4416,7 +4416,7 @@ packages:
     engines: {node: '>=4'}
 
   ospath@1.2.2:
-    resolution: {integrity: sha1-EnZjl3Sj+O8lcvf+QoDg6kVQwHs=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/ospath/-/ospath-1.2.2.tgz}
+    resolution: {integrity: sha1-EnZjl3Sj+O8lcvf+QoDg6kVQwHs=, tarball: https://registry.npmjs.org//ospath/-/ospath-1.2.2.tgz}
 
   p-cancelable@2.1.1:
     resolution: {integrity: sha1-qrf71BZYL6MqPbSYWcEiSHxe0s8=}
@@ -4451,7 +4451,7 @@ packages:
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
 
   p-map@4.0.0:
-    resolution: {integrity: sha1-uy+Vpe2i7BaOySdOBqdHw+KQTSs=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/p-map/-/p-map-4.0.0.tgz}
+    resolution: {integrity: sha1-uy+Vpe2i7BaOySdOBqdHw+KQTSs=, tarball: https://registry.npmjs.org//p-map/-/p-map-4.0.0.tgz}
     engines: {node: '>=10'}
 
   p-retry@4.6.2:
@@ -4523,10 +4523,10 @@ packages:
     engines: {node: '>=14.16'}
 
   pend@1.2.0:
-    resolution: {integrity: sha1-elfrVQpng/kRUzH89GY9XI4AelA=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/pend/-/pend-1.2.0.tgz}
+    resolution: {integrity: sha1-elfrVQpng/kRUzH89GY9XI4AelA=, tarball: https://registry.npmjs.org//pend/-/pend-1.2.0.tgz}
 
   performance-now@2.1.0:
-    resolution: {integrity: sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/performance-now/-/performance-now-2.1.0.tgz}
+    resolution: {integrity: sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=, tarball: https://registry.npmjs.org//performance-now/-/performance-now-2.1.0.tgz}
 
   picocolors@1.1.0:
     resolution: {integrity: sha1-U1i3anjN5IO6XO9qnclnFECyfVk=}
@@ -4556,7 +4556,7 @@ packages:
     engines: {node: '>=14.16'}
 
   portfinder@1.0.32:
-    resolution: {integrity: sha1-L+G55YOJcSQp3CvqW+shRhRsf4E=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/portfinder/-/portfinder-1.0.32.tgz}
+    resolution: {integrity: sha1-L+G55YOJcSQp3CvqW+shRhRsf4E=, tarball: https://registry.npmjs.org//portfinder/-/portfinder-1.0.32.tgz}
     engines: {node: '>= 0.12.0'}
 
   possible-typed-array-names@1.0.0:
@@ -4783,7 +4783,7 @@ packages:
     hasBin: true
 
   pretty-bytes@5.6.0:
-    resolution: {integrity: sha1-NWJW9kOAR3PIL2RyP+eMksYr6us=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/pretty-bytes/-/pretty-bytes-5.6.0.tgz}
+    resolution: {integrity: sha1-NWJW9kOAR3PIL2RyP+eMksYr6us=, tarball: https://registry.npmjs.org//pretty-bytes/-/pretty-bytes-5.6.0.tgz}
     engines: {node: '>=6'}
 
   pretty-format@27.5.1:
@@ -4802,7 +4802,7 @@ packages:
     resolution: {integrity: sha1-eCDZsWEgzFXKmud5JoCufbptf+I=}
 
   process@0.11.10:
-    resolution: {integrity: sha1-czIwDoQBYb2j5podHZGn1LwW8YI=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/process/-/process-0.11.10.tgz}
+    resolution: {integrity: sha1-czIwDoQBYb2j5podHZGn1LwW8YI=, tarball: https://registry.npmjs.org//process/-/process-0.11.10.tgz}
     engines: {node: '>= 0.6.0'}
 
   prompts@2.4.2:
@@ -4817,7 +4817,7 @@ packages:
     engines: {node: '>= 0.10'}
 
   proxy-from-env@1.0.0:
-    resolution: {integrity: sha1-M8UDmPcOp+uW0h97gXYwpVeRx+4=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/proxy-from-env/-/proxy-from-env-1.0.0.tgz}
+    resolution: {integrity: sha1-M8UDmPcOp+uW0h97gXYwpVeRx+4=, tarball: https://registry.npmjs.org//proxy-from-env/-/proxy-from-env-1.0.0.tgz}
 
   proxy-from-env@1.1.0:
     resolution: {integrity: sha1-4QLxbKNVQkhldV0sno6k8k1Yw+I=}
@@ -4888,14 +4888,14 @@ packages:
     engines: {node: '>=0.10.0'}
 
   react-router-dom@6.11.2:
-    resolution: {integrity: sha1-Mk1VdQ/+Ls1Uyk7Gt7x6sBdB8XA=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/react-router-dom/-/react-router-dom-6.11.2.tgz}
+    resolution: {integrity: sha1-Mk1VdQ/+Ls1Uyk7Gt7x6sBdB8XA=, tarball: https://registry.npmjs.org//react-router-dom/-/react-router-dom-6.11.2.tgz}
     engines: {node: '>=14'}
     peerDependencies:
       react: '>=16.8'
       react-dom: '>=16.8'
 
   react-router@6.11.2:
-    resolution: {integrity: sha1-AGMBxNoaFz1612t+zS2gG53Tg3o=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/react-router/-/react-router-6.11.2.tgz}
+    resolution: {integrity: sha1-AGMBxNoaFz1612t+zS2gG53Tg3o=, tarball: https://registry.npmjs.org//react-router/-/react-router-6.11.2.tgz}
     engines: {node: '>=14'}
     peerDependencies:
       react: '>=16.8'
@@ -4952,7 +4952,7 @@ packages:
     hasBin: true
 
   request-progress@3.0.0:
-    resolution: {integrity: sha1-TKdUCBx/7GP1BeT6qCWqBs1mnb4=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/request-progress/-/request-progress-3.0.0.tgz}
+    resolution: {integrity: sha1-TKdUCBx/7GP1BeT6qCWqBs1mnb4=, tarball: https://registry.npmjs.org//request-progress/-/request-progress-3.0.0.tgz}
 
   require-directory@2.1.1:
     resolution: {integrity: sha1-jGStX9MNqxyXbiNE/+f3kqam30I=}
@@ -5016,7 +5016,7 @@ packages:
     engines: {iojs: '>=1.0.0', node: '>=0.10.0'}
 
   rfdc@1.4.1:
-    resolution: {integrity: sha1-d492xPtzHZNBTo+SX77PZMzn9so=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/rfdc/-/rfdc-1.4.1.tgz}
+    resolution: {integrity: sha1-d492xPtzHZNBTo+SX77PZMzn9so=, tarball: https://registry.npmjs.org//rfdc/-/rfdc-1.4.1.tgz}
 
   rimraf@3.0.2:
     resolution: {integrity: sha1-8aVAK6YiCtUswSgrrBrjqkn9Bho=}
@@ -5092,7 +5092,7 @@ packages:
     engines: {node: '>= 12.13.0'}
 
   secure-compare@3.0.1:
-    resolution: {integrity: sha1-8aAymzCLIh+uN7mXTz1XjQypmeM=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/secure-compare/-/secure-compare-3.0.1.tgz}
+    resolution: {integrity: sha1-8aAymzCLIh+uN7mXTz1XjQypmeM=, tarball: https://registry.npmjs.org//secure-compare/-/secure-compare-3.0.1.tgz}
 
   select-hose@2.0.0:
     resolution: {integrity: sha1-Yl2GWPhlr0Psliv8N2o3NZpJlMo=}
@@ -5110,7 +5110,7 @@ packages:
     engines: {node: '>=12'}
 
   semver@5.7.2:
-    resolution: {integrity: sha1-SNVdtzfDKHzUg14X+hP+rOHEHvg=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/semver/-/semver-5.7.2.tgz}
+    resolution: {integrity: sha1-SNVdtzfDKHzUg14X+hP+rOHEHvg=, tarball: https://registry.npmjs.org//semver/-/semver-5.7.2.tgz}
     hasBin: true
 
   semver@6.3.1:
@@ -5194,11 +5194,11 @@ packages:
     engines: {node: '>=12'}
 
   slice-ansi@3.0.0:
-    resolution: {integrity: sha1-Md3BCTCht+C2ewjJbC9Jt3p4l4c=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/slice-ansi/-/slice-ansi-3.0.0.tgz}
+    resolution: {integrity: sha1-Md3BCTCht+C2ewjJbC9Jt3p4l4c=, tarball: https://registry.npmjs.org//slice-ansi/-/slice-ansi-3.0.0.tgz}
     engines: {node: '>=8'}
 
   slice-ansi@4.0.0:
-    resolution: {integrity: sha1-UA6N0P1VsFgVCGJVsxla3ypF/ms=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/slice-ansi/-/slice-ansi-4.0.0.tgz}
+    resolution: {integrity: sha1-UA6N0P1VsFgVCGJVsxla3ypF/ms=, tarball: https://registry.npmjs.org//slice-ansi/-/slice-ansi-4.0.0.tgz}
     engines: {node: '>=10'}
 
   snake-case@3.0.4:
@@ -5256,7 +5256,7 @@ packages:
     resolution: {integrity: sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=}
 
   sshpk@1.18.0:
-    resolution: {integrity: sha1-FmPlXN301oi4aka3fw1f42OroCg=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/sshpk/-/sshpk-1.18.0.tgz}
+    resolution: {integrity: sha1-FmPlXN301oi4aka3fw1f42OroCg=, tarball: https://registry.npmjs.org//sshpk/-/sshpk-1.18.0.tgz}
     engines: {node: '>=0.10.0'}
     hasBin: true
 
@@ -5436,7 +5436,7 @@ packages:
     resolution: {integrity: sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=}
 
   throttleit@1.0.1:
-    resolution: {integrity: sha1-ME7FFjHDt3DGXGxvdpOLOEAA9NU=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/throttleit/-/throttleit-1.0.1.tgz}
+    resolution: {integrity: sha1-ME7FFjHDt3DGXGxvdpOLOEAA9NU=, tarball: https://registry.npmjs.org//throttleit/-/throttleit-1.0.1.tgz}
 
   through@2.3.8:
     resolution: {integrity: sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=}
@@ -5552,10 +5552,10 @@ packages:
     engines: {node: '>=0.6.x'}
 
   tunnel-agent@0.6.0:
-    resolution: {integrity: sha1-J6XeoGs2sEoKmWZ3SykIaPD8QP0=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/tunnel-agent/-/tunnel-agent-0.6.0.tgz}
+    resolution: {integrity: sha1-J6XeoGs2sEoKmWZ3SykIaPD8QP0=, tarball: https://registry.npmjs.org//tunnel-agent/-/tunnel-agent-0.6.0.tgz}
 
   tweetnacl@0.14.5:
-    resolution: {integrity: sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/tweetnacl/-/tweetnacl-0.14.5.tgz}
+    resolution: {integrity: sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=, tarball: https://registry.npmjs.org//tweetnacl/-/tweetnacl-0.14.5.tgz}
 
   type-check@0.4.0:
     resolution: {integrity: sha1-B7ggO/pwVsBlcFDjzNLDdzC6uPE=}
@@ -5621,7 +5621,7 @@ packages:
     engines: {node: '>=4'}
 
   union@0.5.0:
-    resolution: {integrity: sha1-ssEb6E9gU4U3uEbtuboma6AJAHU=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/union/-/union-0.5.0.tgz}
+    resolution: {integrity: sha1-ssEb6E9gU4U3uEbtuboma6AJAHU=, tarball: https://registry.npmjs.org//union/-/union-0.5.0.tgz}
     engines: {node: '>= 0.8.0'}
 
   universalify@0.1.2:
@@ -5641,7 +5641,7 @@ packages:
     engines: {node: '>= 0.8'}
 
   untildify@4.0.0:
-    resolution: {integrity: sha1-K8lHuVNlJIfkYAlJ+wkeOujNkZs=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/untildify/-/untildify-4.0.0.tgz}
+    resolution: {integrity: sha1-K8lHuVNlJIfkYAlJ+wkeOujNkZs=, tarball: https://registry.npmjs.org//untildify/-/untildify-4.0.0.tgz}
     engines: {node: '>=8'}
 
   upath@2.0.1:
@@ -5658,7 +5658,7 @@ packages:
     resolution: {integrity: sha1-mxpSWVIlhZ5V9mnZKPiMbFfyp34=}
 
   url-join@4.0.1:
-    resolution: {integrity: sha1-tkLiGiZGgI/6F4xMX9o5hE4Szec=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/url-join/-/url-join-4.0.1.tgz}
+    resolution: {integrity: sha1-tkLiGiZGgI/6F4xMX9o5hE4Szec=, tarball: https://registry.npmjs.org//url-join/-/url-join-4.0.1.tgz}
 
   url-loader@4.1.1:
     resolution: {integrity: sha1-KFBekFyuFYzwfJLKYi1/I35wpOI=}
@@ -5700,7 +5700,7 @@ packages:
     engines: {node: '>= 0.8'}
 
   verror@1.10.0:
-    resolution: {integrity: sha1-OhBcoXBTr1XW4nDB+CiGguGNpAA=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/verror/-/verror-1.10.0.tgz}
+    resolution: {integrity: sha1-OhBcoXBTr1XW4nDB+CiGguGNpAA=, tarball: https://registry.npmjs.org//verror/-/verror-1.10.0.tgz}
     engines: {'0': node >=0.6.0}
 
   w3c-xmlserializer@4.0.0:
@@ -5822,7 +5822,7 @@ packages:
     engines: {node: '>=0.10.0'}
 
   wrap-ansi@6.2.0:
-    resolution: {integrity: sha1-6Tk7oHEC5skaOyIUePAlfNKFblM=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/wrap-ansi/-/wrap-ansi-6.2.0.tgz}
+    resolution: {integrity: sha1-6Tk7oHEC5skaOyIUePAlfNKFblM=, tarball: https://registry.npmjs.org//wrap-ansi/-/wrap-ansi-6.2.0.tgz}
     engines: {node: '>=8'}
 
   wrap-ansi@7.0.0:
@@ -5881,7 +5881,7 @@ packages:
     engines: {node: '>=12'}
 
   yauzl@2.10.0:
-    resolution: {integrity: sha1-x+sXyT4RLLEIb6bY5R+wZnt5pfk=, tarball: https://jfrog.mahsan.co/artifactory/api/npm/all-npm/yauzl/-/yauzl-2.10.0.tgz}
+    resolution: {integrity: sha1-x+sXyT4RLLEIb6bY5R+wZnt5pfk=, tarball: https://registry.npmjs.org//yauzl/-/yauzl-2.10.0.tgz}
 
   ylru@1.4.0:
     resolution: {integrity: sha512-2OQsPNEmBCvXuFlIni/a+Rn+R2pHW9INm0BxXJ4hVDA8TirqMj+J/Rp9ItLatT/5pZqWwefVrTQcHpixsxnVlA==}
